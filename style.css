@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(150, 148, 148);
+}
+h1#name{
+    background-color: rgb(125, 121, 121);
+    color: aliceblue;
+    text-align: center;
+}
+#title{
+    background-color: rgb(220, 217, 212);
+    color: rgb(173, 191, 191);
+    font-weight: bold;
+}
+a{
+    background-color: rgb(243, 249, 247);
+}
+p#parag{
+    font-family: "Baskervville SC";
+    font-weight: bold;
+}
+ul > li{
+    font-family: "Oswald";
+}
